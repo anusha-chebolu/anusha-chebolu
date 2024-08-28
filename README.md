@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @anusha-chebolu
-- 👀 I’m interested in advanced natural language processing (NLP), deep learning, and data engineering.
+- 👋 Hi, I’m Anusha Chebolu
+- 👀 I’m curious about the endless possibilities of applying AI and data science to tackle complex challenges.
 - 🌱 I’m currently pursuing Masters in Data Science at Indiana University Bloomington
 - 💞️ I’m looking to collaborate on projects that leverage AI to solve real-world problems
 - 📫 How to reach me Say Hi on [LinkedIn](https://www.linkedin.com/in/anusha-chebolu/) or email me at srcheb@iu.edu.
