@@ -1,13 +1,18 @@
-👋 Hi, I’m Anusha Chebolu  
-😄 Pronouns: she/her  
-👀 I’m curious about the endless possibilities of applying AI and data science to tackle complex challenges.  
-🌱 I’m currently pursuing a Master's in Data Science at Indiana University Bloomington  
-💞️ I’m looking to collaborate on projects that leverage AI to solve real-world problems  
-📫 Say Hi on [LinkedIn](https://www.linkedin.com/in/chebolu-anusha/) or email me at srcheb@iu.edu  
-📄 [View my Resume](https://shorturl.at/nn7PG)  
-⚡ Fun fact: Coding with a view is my favorite way to work
+
 <!---
 anusha-chebolu/anusha-chebolu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<h1 id="greeting">Hi there</h1>
+
+<script>
+  var greetings = ["Hi there", "I'm Anusha"];
+  var currentGreeting = 0;
+  setInterval(function() {
+    currentGreeting = (currentGreeting + 1) % greetings.length;
+    document.getElementById("greeting").textContent = greetings[currentGreeting];
+  }, 3000); // Change text every 3000 milliseconds (3 seconds)
+</script>
+
 
